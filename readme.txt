@@ -1,1 +1,1 @@
-this is a new file name readme.txt
+this is a new file named readme.txt
